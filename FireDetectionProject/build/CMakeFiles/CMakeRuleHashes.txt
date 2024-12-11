@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+475da744f6f7fc0816d9f07ffeb370d8 CMakeFiles/FireDetectionProject_autogen
+475da744f6f7fc0816d9f07ffeb370d8 CMakeFiles/FireDetectionProject_autogen_timestamp_deps
+8e76d992611fd3d84f9143de3e193c6d FireDetectionProject_autogen/timestamp

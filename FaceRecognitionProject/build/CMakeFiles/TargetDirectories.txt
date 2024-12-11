@@ -1,0 +1,5 @@
+/home/serif/FaceRecognitionProject/build/CMakeFiles/FaceRecognitionProject.dir
+/home/serif/FaceRecognitionProject/build/CMakeFiles/edit_cache.dir
+/home/serif/FaceRecognitionProject/build/CMakeFiles/rebuild_cache.dir
+/home/serif/FaceRecognitionProject/build/CMakeFiles/FaceRecognitionProject_autogen_timestamp_deps.dir
+/home/serif/FaceRecognitionProject/build/CMakeFiles/FaceRecognitionProject_autogen.dir

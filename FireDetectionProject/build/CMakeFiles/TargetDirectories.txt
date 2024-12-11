@@ -1,0 +1,5 @@
+/home/serif/FireDetectionProject/build/CMakeFiles/FireDetectionProject.dir
+/home/serif/FireDetectionProject/build/CMakeFiles/edit_cache.dir
+/home/serif/FireDetectionProject/build/CMakeFiles/rebuild_cache.dir
+/home/serif/FireDetectionProject/build/CMakeFiles/FireDetectionProject_autogen_timestamp_deps.dir
+/home/serif/FireDetectionProject/build/CMakeFiles/FireDetectionProject_autogen.dir

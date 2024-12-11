@@ -1,0 +1,5 @@
+/home/serif/ColorDetectionProject/build/CMakeFiles/ColorDetectionProject.dir
+/home/serif/ColorDetectionProject/build/CMakeFiles/edit_cache.dir
+/home/serif/ColorDetectionProject/build/CMakeFiles/rebuild_cache.dir
+/home/serif/ColorDetectionProject/build/CMakeFiles/ColorDetectionProject_autogen_timestamp_deps.dir
+/home/serif/ColorDetectionProject/build/CMakeFiles/ColorDetectionProject_autogen.dir

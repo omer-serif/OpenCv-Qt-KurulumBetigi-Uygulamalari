@@ -1,0 +1,5 @@
+/home/serif/ImageGalleryProject/build/CMakeFiles/ImageGalleryProject.dir
+/home/serif/ImageGalleryProject/build/CMakeFiles/edit_cache.dir
+/home/serif/ImageGalleryProject/build/CMakeFiles/rebuild_cache.dir
+/home/serif/ImageGalleryProject/build/CMakeFiles/ImageGalleryProject_autogen_timestamp_deps.dir
+/home/serif/ImageGalleryProject/build/CMakeFiles/ImageGalleryProject_autogen.dir

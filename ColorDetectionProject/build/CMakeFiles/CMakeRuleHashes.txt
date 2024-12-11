@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+25c48a2a503f0c5810221c68de9d6948 CMakeFiles/ColorDetectionProject_autogen
+25c48a2a503f0c5810221c68de9d6948 CMakeFiles/ColorDetectionProject_autogen_timestamp_deps
+daee020b35c6deb2520e7bce12733783 ColorDetectionProject_autogen/timestamp
